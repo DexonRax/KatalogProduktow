@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\ujazdowskaj\\desktop\\ujazd_spr\\bazadanych\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\ujazdowskaj\\desktop\\ujazd_spr\\bazadanych\\service\\homeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:service\\homeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\ujazdowskaj\\desktop\\ujazd_spr\\bazadanych\\service\\interface\\ihomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:service\\interface\\ihomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\ujazdowskaj\\desktop\\ujazd_spr\\bazadanych\\models\\miasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:models\\miasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\ujazdowskaj\\desktop\\ujazd_spr\\bazadanych\\views\\home\\osobylista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:views\\home\\osobylista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\ujazdowskaj\\desktop\\ujazd_spr\\bazadanych\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\ujazdowskaj\\desktop\\ujazd_spr\\bazadanych\\models\\bazadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:models\\bazadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\ujazdowskaj\\desktop\\ujazd_spr\\bazadanych\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\ujazdowskaj\\desktop\\ujazd_spr\\bazadanych\\views\\home\\miastalista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:views\\home\\miastalista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\ujazdowskaj\\desktop\\ujazd_spr\\bazadanych\\models\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:models\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\ujazdowskaj\\desktop\\ujazd_spr\\bazadanych\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T10:57:57.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OsobyLista.cshtml",
+              "DocumentMoniker": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Views\\Home\\OsobyLista.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\OsobyLista.cshtml",
+              "ToolTip": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Views\\Home\\OsobyLista.cshtml",
+              "RelativeToolTip": "Views\\Home\\OsobyLista.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T10:43:54.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAawCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:04:42.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHomeService.cs",
+              "DocumentMoniker": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Service\\Interface\\IHomeService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IHomeService.cs",
+              "ToolTip": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Service\\Interface\\IHomeService.cs",
+              "RelativeToolTip": "Service\\Interface\\IHomeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:59:57.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeService.cs",
+              "DocumentMoniker": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Service\\HomeService.cs",
+              "RelativeDocumentMoniker": "Service\\HomeService.cs",
+              "ToolTip": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Service\\HomeService.cs",
+              "RelativeToolTip": "Service\\HomeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:58:52.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Miasto.cs",
+              "DocumentMoniker": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Models\\Miasto.cs",
+              "RelativeDocumentMoniker": "Models\\Miasto.cs",
+              "ToolTip": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Models\\Miasto.cs",
+              "RelativeToolTip": "Models\\Miasto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:41:33.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Osoba.cs",
+              "DocumentMoniker": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Models\\Osoba.cs",
+              "RelativeDocumentMoniker": "Models\\Osoba.cs",
+              "ToolTip": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Models\\Osoba.cs",
+              "RelativeToolTip": "Models\\Osoba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:43:53.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:38:21.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BazaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Models\\BazaDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\BazaDbContext.cs",
+              "ToolTip": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Models\\BazaDbContext.cs",
+              "RelativeToolTip": "Models\\BazaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:36:34.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MiastaLista.cshtml",
+              "DocumentMoniker": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Views\\Home\\MiastaLista.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MiastaLista.cshtml",
+              "ToolTip": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\Views\\Home\\MiastaLista.cshtml",
+              "RelativeToolTip": "Views\\Home\\MiastaLista.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T10:48:43.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ujazdowskaj\\Desktop\\Ujazd_Spr\\bazaDanych\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T07:37:48.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+﻿@model List<bazaDanych.Models.Produkt>
+@{
+    ViewData["Title"] = "Katalog Produktów";
+}
+
+<h2>Katalog Produktów</h2>
+
+<a asp-action="DodajProdukt" class="btn btn-primary">Dodaj nowy produkt</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nazwa</th>
+            <th>Cena</th>
+            <th>Opis</th>
+            <th>Kategoria</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var produkt in Model)
+        {
+            <tr>
+                <td>@produkt.Nazwa</td>
+                <td>@produkt.Cena zł</td>
+                <td>@produkt.Opis</td>
+                <td>@produkt.Kategoria</td>
+                <td>
+                    <a asp-action="Edytuj" asp-route-id="@produkt.Id" class="btn btn-success">Edytuj</a>
+                    <a asp-action="Usun" asp-route-id="@produkt.Id" class="btn btn-danger" onclick="return confirm('Na pewno usunąć produkt?')">Usuń</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

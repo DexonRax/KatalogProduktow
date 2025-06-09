@@ -1,0 +1,31 @@
+﻿@model bazaDanych.Models.Produkt
+
+<h2>Edytuj produkt</h2>
+
+<form asp-action="Edytuj" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="Nazwa">Nazwa:</label>
+        <input asp-for="Nazwa" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Cena">Cena:</label>
+        <input asp-for="Cena" type="number" step="0.01" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Kategoria">Kategoria:</label>
+        <input asp-for="Kategoria" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Opis">Opis:</label>
+        <textarea asp-for="Opis" class="form-control" rows="4"></textarea>
+    </div>
+
+    <br />
+    <button type="submit" class="btn btn-success">Zapisz zmiany</button>
+    <a asp-action="Katalog" class="btn btn-secondary">Anuluj</a>
+</form>
