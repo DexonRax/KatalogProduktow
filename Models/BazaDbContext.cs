@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace bazaDanych.Models
+namespace KatalogProduktow.Models
 {
     public class BazaDbContext : DbContext
     {

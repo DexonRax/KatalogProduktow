@@ -1,9 +1,9 @@
-using bazaDanych.Models;
-using bazaDanych.Service.Interface;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using KatalogProduktow.Models;
+using KatalogProduktow.Service.Interface;
 
-namespace bazaDanych.Controllers
+namespace KatalogProduktow.Controllers
 {
     public class HomeController : Controller
     {

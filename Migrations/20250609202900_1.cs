@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace bazaDanych.Migrations
+namespace KatalogProduktow.Migrations
 {
     /// <inheritdoc />
     public partial class _1 : Migration

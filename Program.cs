@@ -1,6 +1,6 @@
-using bazaDanych.Models;
-using bazaDanych.Service;
-using bazaDanych.Service.Interface;
+using KatalogProduktow.Models;
+using KatalogProduktow.Service;
+using KatalogProduktow.Service.Interface;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

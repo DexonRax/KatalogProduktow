@@ -1,6 +1,6 @@
-﻿using bazaDanych.Models;
+﻿using KatalogProduktow.Models;
 
-namespace bazaDanych.Service.Interface
+namespace KatalogProduktow.Service.Interface
 {
     public interface IHomeService
     {

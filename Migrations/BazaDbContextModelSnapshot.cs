@@ -3,11 +3,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using bazaDanych.Models;
+using KatalogProduktow.Models;
 
 #nullable disable
 
-namespace bazaDanych.Migrations
+namespace KatalogProduktow.Migrations
 {
     [DbContext(typeof(BazaDbContext))]
     partial class BazaDbContextModelSnapshot : ModelSnapshot
@@ -21,7 +21,7 @@ namespace bazaDanych.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("bazaDanych.Models.Produkt", b =>
+            modelBuilder.Entity("KatalogProduktow.Models.Produkt", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

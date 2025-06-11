@@ -1,9 +1,9 @@
-﻿using bazaDanych.Controllers;
-using bazaDanych.Models;
-using bazaDanych.Service.Interface;
+﻿using KatalogProduktow.Controllers;
+using KatalogProduktow.Models;
+using KatalogProduktow.Service.Interface;
 using Microsoft.EntityFrameworkCore;
 
-namespace bazaDanych.Service
+namespace KatalogProduktow.Service
 {
     public class HomeService : IHomeService
     {

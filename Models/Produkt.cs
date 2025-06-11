@@ -1,4 +1,4 @@
-﻿namespace bazaDanych.Models
+﻿namespace KatalogProduktow.Models
 {
     public class Produkt
     {
