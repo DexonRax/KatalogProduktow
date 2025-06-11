@@ -7598,24 +7598,26 @@
     ]
   },
   "packageFolders": {
-    "/home/dexonrax/.nuget/packages/": {}
+    "C:\\Users\\Dexon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dexonrax/Pulpit/KatalogProduktow/KatalogProduktow.csproj",
+      "projectUniqueName": "G:\\KatalogProduktow\\KatalogProduktow.csproj",
       "projectName": "KatalogProduktow",
-      "projectPath": "/home/dexonrax/Pulpit/KatalogProduktow/KatalogProduktow.csproj",
-      "packagesPath": "/home/dexonrax/.nuget/packages/",
-      "outputPath": "/home/dexonrax/Pulpit/KatalogProduktow/obj/",
+      "projectPath": "G:\\KatalogProduktow\\KatalogProduktow.csproj",
+      "packagesPath": "C:\\Users\\Dexon\\.nuget\\packages\\",
+      "outputPath": "G:\\KatalogProduktow\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/dexonrax/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Dexon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7687,8 +7689,20 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Text.Encoding.CodePages 4.5.1 depends on Microsoft.NETCore.Platforms (>= 2.1.2) but Microsoft.NETCore.Platforms 2.1.2 was not found. An approximate best match of Microsoft.NETCore.Platforms 3.1.0 was resolved.",
+      "libraryId": "Microsoft.NETCore.Platforms",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

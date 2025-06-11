@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/dexonrax/Pulpit/KatalogProduktow/KatalogProduktow.csproj": {}
+    "G:\\KatalogProduktow\\KatalogProduktow.csproj": {}
   },
   "projects": {
-    "/home/dexonrax/Pulpit/KatalogProduktow/KatalogProduktow.csproj": {
+    "G:\\KatalogProduktow\\KatalogProduktow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dexonrax/Pulpit/KatalogProduktow/KatalogProduktow.csproj",
+        "projectUniqueName": "G:\\KatalogProduktow\\KatalogProduktow.csproj",
         "projectName": "KatalogProduktow",
-        "projectPath": "/home/dexonrax/Pulpit/KatalogProduktow/KatalogProduktow.csproj",
-        "packagesPath": "/home/dexonrax/.nuget/packages/",
-        "outputPath": "/home/dexonrax/Pulpit/KatalogProduktow/obj/",
+        "projectPath": "G:\\KatalogProduktow\\KatalogProduktow.csproj",
+        "packagesPath": "C:\\Users\\Dexon\\.nuget\\packages\\",
+        "outputPath": "G:\\KatalogProduktow\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/dexonrax/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Dexon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -91,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
